@@ -5,7 +5,10 @@ I just recently graduated from the University of Edinburgh (2019) as a Psycholog
 ---
 ### Passions
 
-My passions are in neural dysfunction and how it affects human behaviour and cognition. Specifically, I am most interested in understanding the cognitive mechanisms underlying memory (especially false memories and confabulation), decision-making, and inhibitory control, and how best we can model these processes ​🕵️‍♂️​
+Broadly speaking, my passions are in: 
+- Neural dysfunction and how it affects human behaviour and cognition
+- Specifically, I am most interested in understanding the cognitive mechanisms underlying memory (especially false memories and confabulation), decision-making, and inhibitory control, and how best we can model these processes ​🕵️‍♂️​
+- You can also find me climbing at a bouldering gym 🧗 or on a football pitch getting some ⚽ kicks in! 
 
 ---
 
@@ -18,5 +21,7 @@ In my first year dabbling in research after graduation, I started using GitHub :
 - On **GitHub**, I am currently contributing to
   - [Neurokit2](https://github.com/neuropsychology/NeuroKit): a Python toolbox for Physiological Signal Processing
   - [ComplexSpan](https://github.com/neuropsychology/ComplexSpan): a PsychoPy implementation of a Working Memory Span task
+
+[![Zen's github stats](https://github-readme-stats.vercel.app/api?username=zen-juen&show_icons=true&theme=dracula)](https://github.com/zen-juen/github-readme-stats)
 
 
