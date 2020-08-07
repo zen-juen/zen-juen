@@ -2,7 +2,7 @@
 
 I just recently graduated from the University of Edinburgh (2019) as a Psychology graduate 🎓 and am now working as a research assistant at the Clinical Brain Lab, Nanyang Technological University (NTU). 
 
-### Passions
+### Interests
 
 - Neural dysfunction and how it affects human behaviour and cognition 🧠​🏥​⚕️​
 - Specifically, I am most interested in understanding the neurocognitive mechanisms underlying memory (especially false memories and confabulation), decision-making, and inhibitory control, and how best we can model these processes ​🕵️‍♂️​
@@ -12,7 +12,7 @@ I just recently graduated from the University of Edinburgh (2019) as a Psycholog
 
 ### Works
 
-In my first year dabbling in research after graduation, I started using GitHub :octocat: and ever since then I been actively involved in this amazing open-science community!
+In my first year dabbling in research after graduation, I started using GitHub :octocat: and ever since then I have been actively involved in this amazing open-science community!
 
 - On **GitHub**, I am currently contributing to
   - [Neurokit2](https://github.com/neuropsychology/NeuroKit): a Python toolbox for Physiological Signal Processing
