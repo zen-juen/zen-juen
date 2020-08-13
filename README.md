@@ -17,6 +17,7 @@ In my first year dabbling in research after graduation, I started using GitHub :
 - On **GitHub**, I am currently contributing to
   - [Neurokit2](https://github.com/neuropsychology/NeuroKit): a Python toolbox for Physiological Signal Processing
   - [ComplexSpan](https://github.com/neuropsychology/ComplexSpan): a PsychoPy implementation of a Working Memory Span task
+  - [AutoRemind](https://github.com/zen-juen/AutoRemind): An Email Reminder Automation System for Research Participants
 
 [![Zen's github stats](https://github-readme-stats.vercel.app/api?username=zen-juen&show_icons=true&theme=dracula)](https://github.com/zen-juen/github-readme-stats)
 
