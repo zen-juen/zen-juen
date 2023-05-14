@@ -1,12 +1,6 @@
 ## Hello earthlings, Zen here 👋
 
-I graduated from the University of Edinburgh (2019) as a Psychology graduate 🎓 and am now working as a research assistant at the [Clinical Brain Lab](http://www.clinicalbrain.org/), Nanyang Technological University (NTU). 
-
-### Interests
-
-- Neural dysfunction and how it affects human behaviour and cognition 🧠​🏥​⚕️​
-- Specifically, I am most interested in understanding the neurocognitive mechanisms underlying memory (especially false memories and confabulation), decision-making, and inhibitory control, and how best we can model these processes ​🕵️‍♂️​
-- You can also find me climbing at a bouldering gym 🧗 or on a football pitch getting some ⚽ kicks in! 
+Currently studying a Masters of Clinical Neuropsychology at Macquarie University 🧠 Previously graduated from the University of Edinburgh (2019) and worked as research assistant at the [Clinical Brain Lab](http://www.clinicalbrain.org/), Nanyang Technological University (NTU). 
 
 ---
 
