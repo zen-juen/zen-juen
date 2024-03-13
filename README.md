@@ -1,14 +1,8 @@
-## Hello earthlings, Zen here 👋
+## Check out these projects!
 
-Recently graduated from a Masters of Clinical Neuropsychology at Macquarie University 🧠 Previously graduated from the University of Edinburgh (2019) and worked as research assistant at the [Clinical Brain Lab](http://www.clinicalbrain.org/), Nanyang Technological University (NTU). 
+I'm currently writing a R package to facilitate and automate norming of neuropsychological assessment data: [NeuropsyNorms](https://github.com/zen-juen/NeuropsyNorms) 🧠 
 
----
-
-### Works
-
-New project in progress: [NeuropsyNorms](https://github.com/zen-juen/NeuropsyNorms): Automated Norming of Neuropsychological Assessment Data 🧠
-
-Previously contributed to these **Neuropsychology/Cognitive psychology** projects:
+My previous involvements include the following **Neuropsychology/Cognitive psychology** projects:
  - [Neurokit2](https://github.com/neuropsychology/NeuroKit): a Python toolbox for Physiological Signal Processing
  - [ComplexSpan](https://github.com/neuropsychology/ComplexSpan): a PsychoPy implementation of a Working Memory Span task
  - [Pyllusion](https://github.com/RealityBending/Pyllusion): A Parametric Framework to Generate Visual Illusions using Python
